@@ -6,4 +6,5 @@ tensorboard
 matplotlib
 streamlit
 scikeras
+nltk
 -e .
